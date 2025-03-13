@@ -709,4 +709,5 @@ const itemIdMap = {
     "flowerLegGuard": "00707",
     "lostCrownBoot": "00708",
     "flowerGlove": "00709"
+    "holiFestival": "00710"
 }
